@@ -1,8 +1,8 @@
 {
     "socket.url": "wss://nitro.habzon.se:2096",
-    "asset.url": "https://habzon.se/client/nitro/nitro-assets",
-    "image.library.url": "https://habzon.se/client/swf/c_images/",
-    "hof.furni.url": "https://habzon.se/client/swf/dcr/hof_furni",
+    "asset.url": "https://hazure.com.br/client/nitro/nitro-assets",
+    "image.library.url": "https://hazure.com.br/client/swf/c_images/",
+    "hof.furni.url": "https://hazure.com.br/client/swf/dcr/hof_furni",
     "images.url": "${asset.url}/images",
     "gamedata.url": "${asset.url}/gamedata",
     "sounds.url": "${asset.url}/sounds/%sample%.mp3",

@@ -1,9 +1,9 @@
 {
     "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
     "achievements.images.url": "${image.library.url}Quests/%image%.png",
-    "camera.url": "https://habzon.se/client/swf/usercontent/camera",
-    "thumbnails.url": "https://habzon.se/client/swf/usercontent/camera/thumbnail/%thumbnail%.png",
-    "url.prefix": "https://habzon.se",
+    "camera.url": "https://hazure.com.br/client/swf/usercontent/camera",
+    "thumbnails.url": "https://hazure.com.br/client/swf/usercontent/camera/thumbnail/%thumbnail%.png",
+    "url.prefix": "https://hazure.com.br",
     "habbopages.url": "${url.prefix}/",
     "group.homepage.url": "${url.prefix}/groups/%groupid%/id",
     "guide.help.alpha.groupid": 0,
