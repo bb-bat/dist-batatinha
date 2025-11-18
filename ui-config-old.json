@@ -1,9 +1,9 @@
 {
     "image.library.notifications.url": "${image.library.url}notifications/%image%.png",
     "achievements.images.url": "${image.library.url}Quests/%image%.png",
-    "camera.url": "https://hazure.com.br/usercontent/camera",
-    "thumbnails.url": "https://hazure.com.br/usercontent/camera/thumbnail/%thumbnail%.png",
-    "url.prefix": "https://hazure.com.br",
+    "camera.url": "https://habzon.se/usercontent/camera",
+    "thumbnails.url": "https://habzon.se/usercontent/camera/thumbnail/%thumbnail%.png",
+    "url.prefix": "https://habzon.se",
     "habbopages.url": "${url.prefix}/",
     "group.homepage.url": "${url.prefix}/groups/%groupid%/id",
     "guide.help.alpha.groupid": 0,
@@ -89,12 +89,12 @@
         },
         "images": {
             "background": "https://images.habbo.com/c_images/reception/xmas14_background_gradient.png",
-            "background.colour": "url(\"https://images.habbo.com/c_images/reception/xmas14_background_gradient.png\") repeat center top",
+            "background.colour": "#6eadc8",
             "sun": "${asset.url}/images/reception/sun.png",
-            "drape": "https://media.discordapp.net/attachments/1435004594487951471/1437264234651058306/07eec23cc493a3ae25d5f790f872c72c46059a70_1.png?ex=6913eda0&is=69129c20&hm=f4954bf433789b8e2a66ed56833649b4db311b13f5b0b2da8a61de14de966a09&=&format=webp&quality=lossless",
-            "left": "${asset.url}/images/reception/ts1.png",
-            "right": "http://images.habbo.com/c_images/reception/xmas14_background_right.png",
-            "right.repeat": "http://images.habbo.com/c_images/reception/xmas14_background_right.png"
+            "drape": "https://media.discordapp.net/attachments/1435004594487951471/1437264234651058306/07eec23cc493a3ae25d5f790f872c72c46059a70_1.png?ex=69129c20&is=69114aa0&hm=e36e78e712fc5084477efc95ac234a5770d8070d27ce5508edac8ba9472addc1&=&format=webp&quality=lossless",
+            "left": "${asset.url}/images/reception/ts.png",
+            "right": "${asset.url}/images/reception/US_right.png",
+            "right.repeat": "${asset.url}/images/reception/US_top_right.png"
         }
     },
     "achievements.unseen.ignored": [

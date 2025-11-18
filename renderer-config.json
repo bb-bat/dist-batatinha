@@ -1,5 +1,5 @@
 {
-    "socket.url": "wss://nitro.habzon.se:2096",
+    "socket.url": "ws://ws.hazure.com.br:2096",
     "asset.url": "https://hazure.com.br/client/nitro/nitro-assets",
     "image.library.url": "https://hazure.com.br/client/swf/c_images/",
     "hof.furni.url": "https://hazure.com.br/client/swf/dcr/hof_furni",
